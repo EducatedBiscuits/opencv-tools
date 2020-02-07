@@ -1,1 +1,1 @@
-# opencv-tools
+# DIP-tools
